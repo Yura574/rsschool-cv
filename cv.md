@@ -14,7 +14,7 @@
  ***
 ### *Personal information*
 
-My name Yura, I'm 28 age, I'm from Minsk. I have no idea where JS will take me, but it will be an interesting road full of interesting tasks and difficulties
+My name Yura, I'm 29 age, I'm from Minsk. I have no idea where JS will take me, but it will be an interesting road full of interesting tasks and difficulties
 
  ***
 ### *Skills*
