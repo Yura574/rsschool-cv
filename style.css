@@ -1,0 +1,47 @@
+
+.body{
+    display: flex;
+    flex-direction: column;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1920px;
+}
+.cv{
+    display: flex;
+}
+
+.avatar{
+    height: 310px;
+    border-radius: 20%;
+}
+
+.section-1{
+    width: 20%;
+    background-color: rgba(5, 13, 23, 0.78);
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.66);
+
+}
+a{
+    color: rgba(201, 83, 83, 0.66);
+}
+.section-2{
+    width: 80%;
+    padding: 20px;
+}
+.img-skills{
+    width: 35px;
+}
+
+.codeWarsSolution{
+    padding: 10px;
+    background-color: rgba(96, 165, 176, 0.73);
+    width: 50%;
+    margin-left: 10%;
+}
