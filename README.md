@@ -1,2 +1,2 @@
-https://Yura574.github.io/rsschool-cv/index
+https://Yura574.github.io/rsschool-cv/
 
