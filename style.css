@@ -1,0 +1,96 @@
+
+.body{
+    display: flex;
+    flex-direction: column;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 30px;
+    /*background-color: bisque;*/
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1920px;
+    background-color: rgba(171, 191, 227, 0.34);
+}
+.cv{
+    display: flex;
+}
+
+.avatar{
+    height: 310px;
+    border-radius: 20%;
+}
+
+.section-1{
+    width: 20%;
+    background-color: rgba(5, 13, 23, 0.78);
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.66);
+
+}
+a{
+    color: rgba(201, 83, 83, 0.66);
+    text-decoration: none;
+}
+.section-2{
+    width: 80%;
+    padding: 20px;
+}
+
+.img-skills{
+    width: 35px;
+}
+.skills {
+    display: flex;
+    align-items: center;
+    margin: 10px 0 0 20px;
+}
+
+.progress {
+    display: flex;
+    height: 10px;
+    max-width: 225px;
+    background-color: rgba(208, 208, 198, 0.79);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.skills-progress.progress{
+    flex-basis:325px;
+
+}
+.my-progress {
+    background-color: rgba(49, 43, 43, 0.79);
+    border-radius: 10px;
+}
+.skills-html .my-progress { flex-basis:50%; }
+.skills-javascript .my-progress { flex-basis:25%; }
+.skills-git .my-progress { flex-basis:30%; }
+
+.skills-react .my-progress { flex-basis:15%; }
+
+.skills-CSS .my-progress { flex-basis:40%; }
+.skills-english .my-progress { flex-basis:15%; }
+
+
+
+
+
+
+.example{
+
+}
+.codeWarsSolution{
+    padding: 10px;
+    background-color: rgba(96, 165, 176, 0.73);
+    width: 500px;
+    margin-left: 100px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
