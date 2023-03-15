@@ -1,6 +1,6 @@
 # *Sergeev Yura*
 
-![avatar](photo/avatar.jpg)
+![avatar](assets/avatar.jpg)
 
  ***
 ### *Contacts*
